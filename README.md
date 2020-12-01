@@ -1,5 +1,5 @@
 # HypothesisTesting
-Short program in R language demonstrating decision tree concepts 
+Short program in R language demonstrating Hypothesis testing concepts 
 
 Ajit Chavhan
 19/11/2020
